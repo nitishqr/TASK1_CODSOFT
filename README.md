@@ -2,7 +2,7 @@
 
 ## Author: Nitish Kumar
 
-## Batch: October
+## Batch: October 2023
 
 ## Domain: Data Science
 
